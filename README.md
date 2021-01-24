@@ -6,7 +6,7 @@ Install service 1 & service 2
 - npm i
 
 Running microservices with nginx and docker
-    - cd gateway
-    - docker-compose up -d --build
+- cd gateway
+- docker-compose up -d --build
 
 Open: http://localhost/service1 or http://localhost/service2
